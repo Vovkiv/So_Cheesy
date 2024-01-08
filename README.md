@@ -1,10 +1,10 @@
 # Сир vs Еквестрія - Українською
-![обкладинка](https://github.com/Vovkiv/So_Cheesy/blob/main/src/cover-ukr.png?raw=true)
+![](src/cover-ukr.png)
 
 Поні із королівської прислуги, побачив банду драконів, яка розбила табір біля Кантерлоту і йому треба про це повідомити Твайлайт. Але є проблема: він не зміг відмовити собі у порції із кількох кесадильй і охорона не пускає його в тронну залу, доки він не позбавиться від них.
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/So_Cheesy/blob/main/So%20Cheese%20-%20ukr.pdf
+[пдф файл](So%20Cheese%20-%20ukr.pdf)
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
@@ -29,13 +29,13 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/538132/so-cheesy
+[https://www.fimfiction.net/story/538132/so-cheesy](https://www.fimfiction.net/story/538132/so-cheesy)
 
 # Original cover:
-https://cdn-img.fimfiction.net/story/amhh-1687878733-538132-full
+[https://cdn-img.fimfiction.net/story/amhh-1687878733-538132-full](https://cdn-img.fimfiction.net/story/amhh-1687878733-538132-full)
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
-https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
+[https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate)
 
 # Гітхаб теги:
 translation fanfiction mlp ukrainian volkov
